@@ -1,0 +1,16 @@
+city,region,matured_loans,npa_rate_pct,risk_rank,outstanding_cr
+Kolkata,East,638,9.87,1,66.8
+Gurugram,North,874,7.44,2,87.7
+Delhi,North,2035,7.27,3,201.1
+Chennai,South,743,7.27,4,77.8
+Lucknow,North,405,6.91,5,36.7
+Mumbai,West,1887,6.84,6,168.9
+Ahmedabad,West,660,6.82,7,65.2
+Jaipur,North,505,6.34,8,48.6
+Meerut,North,286,6.29,9,25.2
+Indore,West,400,6.25,10,40.9
+Chandigarh,North,348,5.75,11,37.2
+Bengaluru,South,1589,5.73,12,171.4
+Noida,North,804,5.47,13,80.9
+Hyderabad,South,1011,5.44,14,87.6
+Pune,West,832,5.41,15,84.9

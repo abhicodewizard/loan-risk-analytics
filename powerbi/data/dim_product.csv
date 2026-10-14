@@ -1,0 +1,6 @@
+product_id,product,secured,lgd
+P1,Personal Loan,0,0.65
+P2,Auto Loan,1,0.35
+P3,Home Loan,1,0.25
+P4,Business Loan,0,0.65
+P5,Education Loan,0,0.55

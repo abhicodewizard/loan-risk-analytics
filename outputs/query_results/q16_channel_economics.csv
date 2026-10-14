@@ -1,0 +1,4 @@
+channel,applications,approval_rate_pct,disbursed_loans,npa_rate_matured_pct,risk_adjusted_income_cr,return_on_disbursed_pct
+Branch,10242,59.9,6140,5.46,106.2,12.9
+Online,9156,60.9,5573,6.28,95.18,12.76
+DSA,10602,59.4,6300,8.07,98.8,12.1

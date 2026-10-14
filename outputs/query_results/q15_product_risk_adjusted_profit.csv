@@ -1,0 +1,6 @@
+product,disbursed_cr,interest_earned_cr,processing_fee_cr,credit_loss_cr,risk_adjusted_income_cr,return_on_disbursed_pct
+Education Loan,151.1,22.49,1.51,3.77,20.23,13.39
+Home Loan,1451.9,184.51,14.52,12.12,186.91,12.87
+Business Loan,264.1,41.51,2.64,11.69,32.46,12.29
+Auto Loan,243.0,29.9,2.43,3.16,29.18,12.0
+Personal Loan,275.7,37.32,2.76,8.67,31.41,11.39

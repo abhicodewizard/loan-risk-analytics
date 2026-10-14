@@ -1,0 +1,5 @@
+income_band,matured_loans,npa_rate_pct,avg_ticket
+1. Below 25k,567,7.76,186058.0
+2. 25k-50k,3338,6.92,353229.0
+3. 50k-1L,5340,7.06,856141.0
+4. Above 1L,3772,5.57,2976451.0

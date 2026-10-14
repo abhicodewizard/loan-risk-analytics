@@ -1,0 +1,5 @@
+dpd_bucket,loans,outstanding_cr,share_of_book_pct
+1. Standard (0),13927,1644.52,86.64
+2. Early (1-29),893,106.71,5.62
+3. SMA (30-89),503,51.12,2.69
+4. NPA (90+),963,95.67,5.04

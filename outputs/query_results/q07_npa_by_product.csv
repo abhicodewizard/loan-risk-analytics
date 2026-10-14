@@ -1,0 +1,6 @@
+product,secured,lgd,matured_loans,npa_loans,npa_rate_pct,est_credit_loss_cr
+Business Loan,0,0.65,1529,161,10.53,10.55
+Personal Loan,0,0.65,5267,401,7.61,7.6
+Education Loan,0,0.55,1426,77,5.4,3.44
+Auto Loan,1,0.35,2682,139,5.18,2.87
+Home Loan,1,0.25,2113,84,3.98,10.78

@@ -1,0 +1,16 @@
+branch_id,city,region
+B01,Delhi,North
+B02,Gurugram,North
+B03,Noida,North
+B04,Jaipur,North
+B05,Lucknow,North
+B06,Chandigarh,North
+B07,Meerut,North
+B08,Mumbai,West
+B09,Pune,West
+B10,Ahmedabad,West
+B11,Indore,West
+B12,Bengaluru,South
+B13,Hyderabad,South
+B14,Chennai,South
+B15,Kolkata,East

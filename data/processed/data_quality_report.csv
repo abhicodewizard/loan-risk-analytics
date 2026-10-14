@@ -1,0 +1,11 @@
+issue,rows_affected,action_taken
+Duplicate application_id,300,kept first occurrence
+Inconsistent city names,1796,mapped to standard branch cities
+Employment type spelling variants,1639,standardised to 3 categories
+Product name casing / spaces,448,standardised to Title Case
+Mixed date formats,5994,"parsed ISO, DD-MM-YYYY and DD/MM/YYYY into one format"
+"Loan amount stored as text (Rs., INR, commas)",426,stripped symbols and converted to numeric
+Impossible ages (<18 or >80),59,set to NULL and imputed with median age
+"Invalid credit scores (0, -1, 999)",160,set to NULL (treated as no bureau score)
+Missing credit score (new-to-credit),2308,"kept NULL - analysed as 'No score' band, never imputed"
+Missing monthly income,435,imputed with median income of same employment type (flagged)

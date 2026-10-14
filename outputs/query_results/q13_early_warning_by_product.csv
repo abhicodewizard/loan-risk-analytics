@@ -1,0 +1,6 @@
+product,delinquent_loans,delinquent_cr,pct_of_product_book,gnpa_pct
+Personal Loan,204,4.57,3.12,9.1
+Auto Loan,98,4.99,3.06,5.53
+Business Loan,65,4.72,2.92,11.14
+Education Loan,55,3.37,2.78,5.67
+Home Loan,81,33.46,2.56,3.71
